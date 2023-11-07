@@ -17,5 +17,5 @@
 
 Entusiasta de tecnologia desde a infância, estou atualmente cursando Analise e Desenvolviemnto de Sistemas. Concluí os estudos em HTML e CSS e estou imerso na prática de JavaScript. Meu próximo passo é explorar frameworks para aprimorar minhas habilidades de desenvolvimento web. Comprometido em aprender e evoluir, busco contribuir com soluções inovadoras no universo da tecnologia.
 
-    console.log("Hello, World!);
+    console.log("Hello, World!");
 
