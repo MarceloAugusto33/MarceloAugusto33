@@ -9,7 +9,7 @@
 [![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloAugusto33&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAugusto33&layout=donut&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marceloaugusto33&theme=blue&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarceloAugusto33&theme=blue&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
 
 ### Tecnologias que eu estudo atualmente
 
